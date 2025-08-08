@@ -17,6 +17,15 @@ A simple yet powerful **Text Editor** built with Python and Tkinter. This projec
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'Text Editor' Desktop View</strong><br>
+  <img src="Screenshot.png" width="600" alt="Desktop Screenshot">
+</p>
+
+---
+
 ## 🚀 Running the Program
 
 ### 🐍 From Python Source
